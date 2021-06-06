@@ -5,6 +5,8 @@ Hyde adapted into the Blogger from Jekyll. The Jekyll version is [here](https://
 
 Hyde is a brazen two-column [Blogger](http://blogger.com) template that pairs a prominent sidebar with uncomplicated content.
 
+[Demo](http://hydebloggertemplate.blogspot.com/) 
+
 ![Hyde screenshot](https://3.bp.blogspot.com/-DFxQYS5Of-g/WSCaKbv_-FI/AAAAAAAAGEE/3sjeS38qsmYIDicil3PSDdKxmA4RRiLlACPcB/s1600/hyde-blogger-template.png)
 
 
